@@ -4,10 +4,4 @@ $parent: App;
 
 .#{$parent} {
     background-color: $black-clr;
-    color: $white-clr;
-
-    &__heading {
-        color: red;
-        padding: 1rem;
-    }
 }
